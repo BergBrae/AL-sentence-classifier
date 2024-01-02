@@ -8,5 +8,3 @@
     - An interactive Active Learning loop is used to minimize the number of labels that need to be labeled.
 5. With chunks that were classified as relevant, use `distilbert-base-cased-distilled-squad` from HuggingFace to identify text that answers "*What is the AI supposed to do?*".
 7. Export LLM use cases and their corresponding sources.
-
-**Valid newsapi and OpenAI API keys are required.**
